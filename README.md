@@ -1,6 +1,6 @@
 # Image Classification - Machine Learning Algorithms from Scratch 
 
-<p align = "justify">The code file <a href="https://github.com/lalithavadlamani/ML-Image-Classification/blob/main/Image%20Classification.ipynb"> Image classification.ipynb</a> has machine learning models built from scratch, i.e. without using pre-made models or advanced libraries, to classify images.
+<p align = "justify">The file <a href="https://github.com/lalithavadlamani/ML-Image-Classification/blob/main/Image%20Classification.ipynb"> Image classification.ipynb</a> has machine learning models built from scratch, i.e. without using pre-made models or advanced libraries, to classify images.
 </p>
 
 ## Introduction 
