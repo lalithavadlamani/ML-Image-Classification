@@ -67,3 +67,18 @@ Based on the Experiments done, Results and analysis above the 3 algorithms have 
 * Ensemble learning can be tried using Bagging and Boosting for improving the performance further according to the variance and bias.
 * Random Forest can be used for the classification and the results can be analysed
 </div>
+
+## References 
+
+* Chatterjee, M. (2020, Febraury). KNN Algorithm Introduction. Retrieved from My great learning: https://www.mygreatlearning.com/blog/knn-algorithm-introduction/
+* Chauhan, G. (2018, October). All about Naive Bayes. Retrieved from Towards Data Science: https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf
+* Grover, K. (2020). Advantages and disadvantages of Logistic Regression. Retrieved from Opengenus: https://iq.opengenus.org/advantages-and-disadvantages-of-logistic-regression/
+* Jaadi, Z. (2019, September). PCA Explanation. Retrieved from Built in : https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+* Kasaraneni, C. K. (2020, September). Build knn from scratch . Retrieved from Towards Data Science: https://towardsdatascience.com/build-knn-from-scratch-python-7b714c47631a
+* Kumar, A. (2018, September). Multivariate Multilabel Classification with Logistic Regression. Retrieved from Acadgild: https://acadgild.com/blog/logistic-regression-multiclass-classification#:~:text=Multiclass%20classification%20with%20logistic%20regression,function%20to%20cross%2D%20entropy%20loss.
+* Pant, A. (2019, January). Intro to Logistic Regression. Retrieved from Medium: https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+* Schott, M. (2019, April). KNN Algorithm for ML. Retrieved from Medium: https://medium.com/capital-one-tech/k-nearest-neighbors-knn-algorithm-for-machine-learning-e883219c8f26
+* Sucky, R. N. (2020, September). Multiclass classification using Logistic Regression. Retrieved from Towards Data Science: https://towardsdatascience.com/multiclass-classification-algorithm-from-scratch-with-a-project-in-python-step-by-step-guide-485a83c79992
+* Team, T. (2020, September). Assignment 1. Retrieved from Canvas: https://canvas.sydney.edu.au/courses/25941/assignments/231831
+* Tran, N. (2020, September). Week4 Lecture slides. Retrieved from Canvas: https://canvas.sydney.edu.au/courses/25941/pages/week-4-knn-naive-bayes-roc?module_item_id=913258
+* Zoltan, C. (2018, November). KNN in python. Retrieved from Towards Data Science: https://towardsdatascience.com/knn-in-python-835643e2fb53
